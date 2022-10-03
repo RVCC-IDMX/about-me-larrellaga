@@ -1,0 +1,30 @@
+bodu {
+    font-family: Roboto;
+    background-color: #F5E571;
+    color: #3267A1;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Grenzy Gotisch";
+    font-size: 40pt;
+}
+
+header {
+    text-align: center;
+}
+
+#hero, footer {
+    color: #82BEFF;
+    border: 2px solid #61A5ED;
+    background-color: #A3721C;
+    text-align: center;
+    padding: 10px;
+}
+
+#hero img {
+    width: 300px
+}
+
+#bio {
+    text-align: center;
+}
