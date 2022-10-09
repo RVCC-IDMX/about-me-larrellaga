@@ -46,6 +46,7 @@ color: #3267A1;
 
 #gallery {
     border: 2px solid#61A5ED;
+    margin-bottom: 2rem;
 }
 
 #gallery img {
@@ -54,4 +55,16 @@ color: #3267A1;
 
 #gallery figure {
     text-align: center;
+}
+
+/* Literature */
+#lit {
+    border: 2px solid#61A5ED;
+    margin-bottom: 2rem;
+}
+
+#lit div {
+    padding: 2rem;
+    max-width: 40rem;
+    margin: 0 auto;
 }
