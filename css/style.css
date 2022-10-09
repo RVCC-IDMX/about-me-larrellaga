@@ -6,6 +6,9 @@ bodu {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Grenzy Gotisch";
+    text-align: center;
+}
+h1 {
     font-size: 40pt;
 }
 
@@ -27,4 +30,8 @@ header {
 
 #bio {
     text-align: center;
+}
+
+#bio ul li:nth-child(even){
+color: #3267A1;
 }
