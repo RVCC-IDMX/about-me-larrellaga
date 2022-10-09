@@ -24,14 +24,34 @@ header {
     padding: 10px;
 }
 
+/* Hero Section */
+
 #hero img {
     width: 300px
 }
+
+/*Bio Section*/
 
 #bio {
     text-align: center;
 }
 
-#bio ul li:nth-child(even){
+/* Hobbies */
+
+#hobbies ul li:nth-child(even){
 color: #3267A1;
+}
+
+/* Gallery */
+
+#gallery {
+    border: 2px solid#61A5ED;
+}
+
+#gallery img {
+    max-width: 100%;
+}
+
+#gallery figure {
+    text-align: center;
 }
