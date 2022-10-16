@@ -53,7 +53,7 @@ section#hobbies {
 /* Gallery */
 
 #gallery {
-    border: 2px solid
+    border: 2px solid #61A5ED;
 }
 
 #gallery img {
@@ -64,3 +64,34 @@ section#hobbies {
     text-align: center;
 }
 
+/* Literature */
+#lit {
+    border: 2px solid #61A5ED;
+    margin-bottom: 2rem;
+}
+
+#lit div {
+    padding: 2rem;
+    max-width: 40rem;
+    margin: 0 auto;
+}
+
+#lit div p {
+    padding: 0.3 rem 0;
+}
+
+#lit div p:nth-child(3n+1)::first-letter {
+    color: #3267A1;
+    background-image: radial-gradient(#FFF,#A3721C);
+    float: left;
+    font-size: 3em;
+    padding: .25em;
+    margin-right: .25em;
+    line-height: .65;
+    border: 4px outset #3267A1;
+    font-family:"Grenze Gotisch";
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.5);
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+    border-top-left-radius: .2em;
+    border-bottom-right-radius: .2em;
+}
