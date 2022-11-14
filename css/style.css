@@ -139,13 +139,14 @@ figure {
 
 }
 
-.wrapper {
+.iframe-container {
     position: relative;
-    overflow: hidden;
+    width: 100%;
     padding-top: 56.25%;
+    height: 0;
 }
 
-.wrapping iframe {
+.iframe-container iframe {
     position: absolute;
     top: 0;
     left: 0;
