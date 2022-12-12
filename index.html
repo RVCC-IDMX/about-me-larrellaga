@@ -6,14 +6,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Me</title>
 
-    <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
-
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Grenze+Gotisch:wght@800&family=Roboto&display=swap" rel="stylesheet">
 
     <link href="css/style.css" rel="stylesheet">
     <link href="css/nav.css" rel="stylesheet">
+    <link rel="icon" type="image/png" sizes="96x96" href="img/favicon.png">
 
 </head>
 <body>
@@ -23,7 +22,7 @@
 <header>
     <nav class="navbar">
         <div class="logo">
-            <img src="initial-logo" alt="my initials as a logo">
+            <img src="img/favicon.png" alt="my initials as a logo">
             <h1>Web Dev I</h1></div>
         <div class="navbar-links">
             <ul>
@@ -53,8 +52,7 @@
 
 <div>
 
-<p>I want to be an IT Technician!</p>
-<p>In my free time, I like to play soccer, watch movies, and play video games></p>
+<p>Hello, my name is Lucas Arrellaga and I am 18 years old. My family is originally from Paraguay and my parents moved to the United States in the early 2000’s. I was born on October 27, 2003 in Connecticut, which is where I lived for a few years. I moved to New Jersey in 2011 and I have lived there ever since. I graduated from Bernards High School and I currently am a student at Raritan Valley Community College. I am an IT major and my goal is to eventually become an IT technician. </p>
 
 </div>
 
@@ -64,11 +62,17 @@
 
 <h2>Hobbies:</h2>
 
+<p>My current hobbies include playing soccer, running, and playing video games. I started playing soccer when I was 8 and I have enjoyed playing it ever since. I have played for many clubs and I even played in high school. I started going on runs my freshman year of high school so that I could get fit for soccer. I usually try to run at least 3 times a week but in the summer I try to run everyday. I don’t actually enjoy running, but I enjoy the feeling after finishing a run. I have played video games for as long as I can remember. When I was growing up, my dad had a Playstation 3 and I would always play games with him such as Fifa and Halo. Now I play new games with my friends and we all have a good time. My favorite games to play currently are Fifa, Call of Duty, Valorant, and Grand Theft Auto.</p>
+
 <ul>
 <li>Soccer</li>
 <li>Video Games</li>
 <li>Running</li>
 </ul>
+
+<figure>
+    <img src="img/pictureofme.jpeg" alt="Picture of me">
+</figure>
 
 </section>
 
@@ -101,16 +105,38 @@
 
 <article id="lit">
 
-<h2>An Excerpt From Dracula</h2>
+<h2>Image Hover Effects</h2>
 
 <div>
 
-    <p>When she woke late in the afternoon, Lucy's first movement was to feel in her breast, and, to my surprise, produced the paper which Van Helsing had given me to read. The careful Professor had replaced it where it had come from, lest on waking she should be alarmed. Her eye then lit on Van Helsing and on me too, and gladdened. Then she looked around the room, and seeing where she was, shuddered; she gave a loud cry, and put her poor thin hands before her pale face. We both understood what that meant--that she had realised to the full her mother's death; so we tried what we could to comfort her. Doubtless sympathy eased her somewhat, but she was very low in thought and spirit, and wept silently and weakly for a long time. We told her that either or both of us would now remain with her all the time, and that seemed to comfort her. Towards dusk she fell into a doze. Here a very odd thing occurred. Whilst still asleep she took the paper from her breast and tore it in two. Van Helsing stepped over and took the pieces from her. All the same, however, she went on with the action of tearing, as though the material were still in her hands; finally she lifted her hands and opened them as though scattering the fragments. Van Helsing seemed surprised, and his brows gathered as if in thought, but he said nothing. 19 September.--All last night she slept fitfully, being always afraid to sleep, and something weaker when she woke from it. The Professor and I took it in turns to watch, and we never left her for a moment unattended. Quincey Morris said nothing about his intention, but I knew that all night long he patrolled round and round the house.</p>
+    <p>Image hover effects are a popular technique used in modern web design where an image or other visual element changes in some way when the user hovers their cursor over it. This can be a subtle effect, such as a slight change in color or a simple animation, or it can be a more noticeable transformation, such as an image flipping or sliding to reveal additional content.
 
-    <p>When the day came, its searching light showed the ravages in poor Lucy's strength. She was hardly able to turn her head, and the little nourishment which she could take seemed to do her no good. At times she slept, and both Van Helsing and I noticed the difference in her, between sleeping and waking. Whilst asleep she looked stronger, although more haggard, and her breathing was softer; her open mouth showed the pale gums drawn back from the teeth, which thus looked positively longer and sharper than usual; when she woke the softness of her eyes evidently changed the expression, for she looked her own self, although a dying one. In the afternoon she asked for Arthur, and we telegraphed for him. Quincey went off to meet him at the station.</p>
-    
-    <p>When he arrived it was nearly six o'clock, and the sun was setting full and warm, and the red light streamed in through the window and gave more colour to the pale cheeks. When he saw her, Arthur was simply choking with emotion, and none of us could speak. In the hours that had passed, the fits of sleep, or the comatose condition that passed for it, had grown more frequent, so that the pauses when conversation was possible were shortened. Arthur's presence, however, seemed to act as a stimulant; she rallied a little, and spoke to him more brightly than she had done since we arrived. He too pulled himself together, and spoke as cheerily as he could, so that the best was made of everything.</p>
+        Hover effects are typically created using a combination of HTML, CSS, and JavaScript, with the goal of making the website or application more interactive and engaging for the user. In HTML, the basic structure of a hover effect might involve a div element containing the image, along with some additional HTML elements to hold the additional content that will be revealed on hover.
+        
+        The CSS is then used to style the elements and create the desired hover effect. For example, the initial state of the image might be set to have a certain opacity or be positioned a certain way, and then on hover the CSS could specify a transition to make the image become more opaque or move to a new position.
+        
+        JavaScript can also be used to add more advanced hover effects, such as animations or other dynamic changes to the image. For instance, a JavaScript function could be used to listen for the hover event and then trigger a specific animation or change to the image when it occurs.
+        
+        One popular example of a hover effect is the "zoom" effect, where an image appears to grow larger and more detailed on hover. This can be achieved using a combination of CSS and JavaScript, where the initial state of the image is set to be smaller and lower resolution, and then on hover the JavaScript function triggers a transition to make the image grow and switch to a higher resolution version.
+        
+        Another common hover effect is the "reveal" effect, where additional content is revealed when the user hovers over the image. This could be a text caption, a button, or some other element that was previously hidden. The reveal effect is often achieved using a combination of absolute positioning and transitions in CSS, where the additional content is positioned off-screen initially and then moved into view on hover.
+        
+        In conclusion, image hover effects are a useful tool for web designers and developers looking to add interactivity and engagement to their websites or applications. By combining HTML, CSS, and JavaScript, it is possible to create a wide range of hover effects, from subtle color changes to more advanced animations and reveals. These effects can help make a website or application more engaging and user-friendly, and can be a great way to add a touch of personality and polish to any digital project.</p>
 
+
+
+</div>
+
+<div class="container">
+    <div class="box">
+        <img src="img/usa-flag.jpg">
+    </div>
+    <div class="box">
+        <img src="img/rv.jpg">
+    </div>
+    <div class="box">
+        <img src="img/soccer.jpg">
+    </div>
 </div>
 
 </article>

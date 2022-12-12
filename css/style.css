@@ -50,6 +50,10 @@ section#hobbies {
     align-items: center;
 }
 
+#hobbies img {
+    max-width: 100%;
+}
+
 /* Gallery */
 
 #gallery {
@@ -201,3 +205,4 @@ legend {
     width: 50%;
     justify-self: center;
 }
+
