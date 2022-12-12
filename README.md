@@ -17,8 +17,13 @@ The colors that I have chosen and used for this project are:
 - ![#333](https://placehold.co/15x15/333/333.png) `#333` / rgb(51, 51, 51)
 - ![#f5f5f5](https://placehold.co/15x15/f5f5f5/f5f5f5.png) `#f5f5f5` / rgb(245, 245, 245)
 
-These are the sources that contain contain content that I did not create or have also helped me
+These are the sources that contain contain content that I did not create or have also helped me:
 
 - https://www.w3schools.com/css/css3_images.asp 
 - https://wpdatatables.com/css-image-hover-effects/#:~:text=Image%20hover%20effects%20create%20an,matter%20how%20many%20you%20add. 
 - https://thebrandsmen.com/css-image-hover-effects/ 
+- https://www.northlineexpress.com/3ftx5ft-super-tough-american-flag.html 
+- https://mobile.twitter.com/rvccathletics 
+- https://daily.jstor.org/soccer-and-european-identity/ 
+
+I wish to reserve the copyrights to this webpage.
