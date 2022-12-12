@@ -8,7 +8,7 @@ Lucas Arrellaga
 For the past few months, I have been assigned a project to create a new web page that is about myself. The purpose of this project is to learn and display the new features and skills that I have learned so far. I have learned how to use HTML, create headers, add colors for backgrounds and outlines, add images and videos, add and edit different fonts and font sizes, make items responsive, and create contact forms and nav bars. 
 
 The colors that I have chosen and used for this project are:
-- Cookies and Cream/#E4D9AB/rgb(228, 217, 171)
+- #E4D9AB Cookies and Cream/#E4D9AB/rgb(228, 217, 171)
 - Rajah/#EDBA61/rbg(237, 186, 97)
 - Blue Jeans/#61A5ED/rgb(97, 165, 237)
 - Bistre Brown/#A3721C/rgb(163, 113, 28)
