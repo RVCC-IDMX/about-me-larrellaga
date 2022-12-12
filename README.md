@@ -17,4 +17,4 @@ The colors that I have chosen and used for this project are:
 - Dark Charcoal/#333/rgb(51, 51, 51)
 - Whitesmoke/#F5F5F5/rgb(245, 245, 245)
 
-![#e4d9ab](https://placehold.co/15x15/e4d9ab/e4d9ab.png) `#e4d9ab`
+- ![#e4d9ab](https://placehold.co/15x15/e4d9ab/e4d9ab.png) `#e4d9ab` / rgb(228, 217, 171)
