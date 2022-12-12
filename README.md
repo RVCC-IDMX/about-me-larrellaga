@@ -1,6 +1,6 @@
 # About Me
 
-![This is an image](<link rel="icon" type="image/png" sizes="96x96" href="img/favicon.png">)
+![This is an image](https://favicon-generator.org/favicon-generator/htdocs/favicons/2022-12-12/f5b460186691a22bf80583560b26ba2c.ico.png)
 
 Lucas Arrellaga
 
