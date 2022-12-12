@@ -26,5 +26,6 @@ These are the sources that contain contain content that I did not create or have
 - https://www.northlineexpress.com/3ftx5ft-super-tough-american-flag.html 
 - https://mobile.twitter.com/rvccathletics 
 - https://daily.jstor.org/soccer-and-european-identity/ 
+- https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css 
 
 I wish to reserve the copyrights to this webpage.
