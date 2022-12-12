@@ -14,5 +14,5 @@ The colors that I have chosen and used for this project are:
 - ![#a3721c](https://placehold.co/15x15/a3721c/a3721c.png) `#a3721c` / rgb(163, 113, 28)
 - ![#000](https://placehold.co/15x15/000/000.png) `#000` / rgb(0, 0, 0)
 - ![#63267a1](https://placehold.co/15x15/3267a1/3267a1.png) `#3267a1` / rgb(50, 104, 161)
-- ![#333](https://placehold.co/15x15/333/333.png) `#333` / (51, 51, 51)
+- ![#333](https://placehold.co/15x15/333/333.png) `#333` / rgb(51, 51, 51)
 - ![#f5f5f5](https://placehold.co/15x15/f5f5f5/f5f5f5.png) `#f5f5f5` / rgb(245, 245, 245)
