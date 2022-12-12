@@ -1,5 +1,6 @@
 # About Me
 
+![This is an image](<link rel="icon" type="image/png" sizes="96x96" href="img/favicon.png">)
 
 Lucas Arrellaga
 
